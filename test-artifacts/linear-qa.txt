@@ -1,2 +1,4 @@
 Linear diff thread fixture
 Date: 2026-08-31
+Branch: test/linear-diff-20260831
+Purpose: QA fixture for Linear diff thread.
